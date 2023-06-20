@@ -3,7 +3,7 @@ Pod::Spec.new do |spec|
   spec.version      = "0.10.0"
   spec.summary      = "A few schedulers that make working with Combine more testable and more versatile."
   spec.homepage     = "https://github.com/pointfreeco/combine-schedulers"
-  spec.author       = { "Davide Lorenzi" => "davide.lorenzi@transferwise.com" }
+  spec.author             = { "Point-Free" => "support@pointfree.co" }
   spec.license      = { type: 'MIT', file: 'LICENSE' }
   spec.swift_versions = "5.6"
 
